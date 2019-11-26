@@ -1,10 +1,10 @@
 #!/bin/bash
-# author:Li
+# author:LiZhenHua
 # Date:2019-11-20
 
 set -x
-Host=VM80
-ServerActive=10.1.8.240
+Host=zabbix-agent
+ServerActive=10.0.1.200
 USER=zabbix
 ZABBIX=/usr/local/src/zabbix-4.0.3.tar.gz
 
